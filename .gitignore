@@ -1,3 +1,7 @@
 # git commit message
 
 git-commit-message.txt
+
+# AI assistant
+.qwen/
+qwen.md
