@@ -184,7 +184,7 @@ Examples:
 
 | Project                                            | Target | Description                                                                                    |
 | -------------------------------------------------- | ------ | ---------------------------------------------------------------------------------------------- |
-| [**AINet-Serve**](implementations/ainet-serve/) | v0.1.0 | Service runtime: FastAPI + natural language CLI + task management + cross-device collaboration |
+| [**AINet-Serve**]| v0.1.0 | Service runtime: FastAPI + natural language CLI + task management + cross-device collaboration |
 
 ---
 
