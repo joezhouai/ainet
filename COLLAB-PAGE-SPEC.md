@@ -56,8 +56,8 @@
 - Submitting direction-A requests to direction-B entries.
 
 ## 3. User rules
-- Instructions **must include the full Collab Page URL**: `https://<domain>/collab/, start collaboration`.
-- Bare-domain instructions are unreliable (only 1 of 3 tested engines found the Collab Page unaided).
+- **Recommended instruction**: `https://<domain>/collab/, start collaboration` — carrying the full Collab Page URL maximizes compatibility (required for passive-fetch engines).
+- Many engines with live retrieval can also discover the Collab Page from just the service domain or even the brand name — discovery capability varies by engine.
 - When a security-gated engine asks for confirmation, answer explicitly.
 
 ## 4. Versioning
