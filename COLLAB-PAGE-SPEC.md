@@ -16,7 +16,7 @@
 ### 1.1 Trigger & entry
 - Recommended path: `/collab` (or `/ai/`).
 - Declare a trigger phrase (e.g., "start collaboration") and explain **why explicit triggering is required** (otherwise AI treats the page as an article).
-- ⚠️ User instructions **must carry the full Collab Page URL** (`https://<domain>/collab/, start collaboration`). URL completeness correlates strictly with execution quality (see Engine Matrix: bare domain 2/5 → scheme domain 4/5 → full Collab Page URL 5/5).
+- ⚠️ User instructions **should carry the full Collab Page URL** (`https://<domain>/collab/, start collaboration`). Field-tested: referral from other pages or a missing https:// prefix can still work on some engines, but the full URL performs best and most stably. URL completeness correlates with execution quality (bare domain 2/5 → scheme domain 4/5 → Collab Page URL 5/5).
 
 ### 1.2 Scope & routing
 - **Explicit exclusivity**: state in one sentence what this entry serves (and for whom).

@@ -31,7 +31,7 @@ Full text: [COLLAB-PAGE-SPEC.md](COLLAB-PAGE-SPEC.md). Core sections:
 
 | § | Section | Requirement |
 |---|---------|-------------|
-| 1 | **Trigger & entry** | A trigger phrase (e.g., "start collaboration") + why explicit triggering is required; user instructions **must include the full Collab Page URL** |
+| 1 | **Trigger & entry** | A trigger phrase (e.g., "start collaboration") + why explicit triggering is required; user instructions **should carry the full Collab Page URL** |
 | 2 | **Scope & routing** | Explicit exclusivity (what this entry serves) + full referral URL for everything else |
 | 3 | **Channels & fallback** | All channels with **true status**; zero-barrier fallback chain: MCP/API (provisioned) → email (works now) → human; AI without email capability hands the full draft to the user — never summarizes, never sends silently |
 | 4 | **Requirement collection** | Ask once (required/optional separated, optional never blocks); proceed to submission immediately after collection |
