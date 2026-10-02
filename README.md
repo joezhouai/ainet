@@ -95,8 +95,6 @@ Full text: [COLLAB-PAGE-SPEC.md](COLLAB-PAGE-SPEC.md). Core sections:
 
 The Collab Page idea grew out of the AINET transport protocol: **AI collaboration via file read/write** — no server, no API, just a shared folder. It remains part of this spec family as a **reference delivery channel** (a structured Collab Page submission can also be delivered via AINET messaging for agents that have AINET deployed).
 
-*(以下为原 v0.2 README 全部内容，原文保留，仅层级降为传输层章节。)*
-
 ### 💡 Why AI-Net?
 
 AI tools are everywhere, but each AI is an "island":
