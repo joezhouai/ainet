@@ -70,7 +70,7 @@ Full text: [COLLAB-PAGE-SPEC.md](COLLAB-PAGE-SPEC.md). Core sections:
 
 [51Toko (拓客AI)](https://51toko.com/) is an AI-powered service that finds overseas buyers for Chinese exporters using real customs and trade-show records. It published its Collab Page at [51toko.com/ai/](https://51toko.com/ai/) (seller side) and [51toko.com/en/ai/](https://51toko.com/en/ai/) (buyer side).
 
-**The live loop**: a user gives any AI assistant `51toko.com/ai/` + "start collaboration" → the assistant reads the page, confirms the user is on the seller side, collects requirements once (product, target market, competitors — optional fields never block), drafts a structured email → the user sends it to toko@51toko.com → 51Toko delivers a **buyer report**: product-level matches backed by real customs records, verifiable on official websites.
+**The live loop**: a user gives any AI assistant `51toko.com/ai/` + "start collaboration" → the assistant reads the page, confirms the user is on the seller side, collects requirements once (product, target market, competitors — optional fields never block), drafts a structured email → the user sends it to toko@51toko.com → 51Toko delivers a **buyer report**: product-level matches backed by real customs records, verifiable through public records.
 
 **9 real AI assistants ran this loop on day one** — across four engine profiles (light execution, security-gated, memory-heavy, skip-reading). Full case study: [docs/case-51toko.md](docs/case-51toko.md)
 

@@ -4,7 +4,7 @@
 
 ## The service
 
-51Toko delivers a **buyer report**: product-level matches backed by real customs and trade-show records — every listed buyer is real and verifiable on official websites. Three services: lead & data enrichment, buyer mining, intent assessment. (Service details: [51toko.com/service](https://51toko.com/service/))
+51Toko delivers a **buyer report**: product-level matches backed by real customs and trade-show records — every listed buyer is real and verifiable through public records. Three services: lead & data enrichment, buyer mining, intent assessment. (Service details: [51toko.com/service](https://51toko.com/service/))
 
 ## The Collab Pages
 
