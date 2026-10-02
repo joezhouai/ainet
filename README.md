@@ -237,7 +237,7 @@ See full report: [for-human/examples/three-device-test-report.md](for-human/exam
 |---|---|---|
 | v0.1 | Transport: device-level routing | ✅ Released |
 | v0.2 | Transport: agent-level routing, broadcast & P2P messaging, 3-device test | ✅ Released |
-| **v1.0 (Draft)** | **Collab Page Spec** — service onboarding layer for the Agentic Web | 🔄 Review |
+| **v1.0** | **Collab Page Spec** — service onboarding layer for the Agentic Web | ✅ Released 2026-10-02 |
 | v1.1+ | Collab Page iterations driven by the engine test matrix | ⏳ Continuous |
 | AINet-Serve v0.1.0 | Service runtime: FastAPI + natural language CLI + task management + cross-device collaboration | 🚧 In development |
 
@@ -255,7 +255,7 @@ Then a second island became visible: **services** could not be used by AI assist
 
 | Version | Date | Changes |
 | --- | --- | --- |
-| v1.0 (Draft) | 2026-10-02 | Collab Page Spec — service onboarding layer; engine compatibility matrix (9 engines / 11 runs) |
+| v1.0 | 2026-10-02 | Collab Page Spec — service onboarding layer; engine compatibility matrix (9 engines / 11 runs) |
 | v0.2 | 2026-03-29 | Agent-level routing, three-device test passed |
 | v0.1 | 2026-03-26 | Device-level routing, initial release |
 
