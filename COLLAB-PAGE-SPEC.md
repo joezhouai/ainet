@@ -1,6 +1,6 @@
-# Collab Page Spec v1.0 (Draft)
+# Collab Page Spec v1.0
 
-> Part of the AINET Specification family. Status: Draft for Review. License: CC BY 4.0.
+> Part of the AINET Specification family. Status: Released (public feedback welcome). License: CC BY 4.0.
 > A Collab Page is a human-readable, AI-executable web page that lets any AI assistant start a service collaboration on behalf of a service provider — no development, no middleware.
 
 ## 0. Design Principles

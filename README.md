@@ -1,9 +1,9 @@
 # AINET — Enable any AI to collaborate easily
 
-> **v1.0 (Draft)**: From "AI collaboration via shared files" to "AI collaboration via one web page."
+> **v1.0**: From "AI collaboration via shared files" to "AI collaboration via one web page."
 > Publish a **Collab Page** — and every AI assistant on the web can start working with your service. No development. No middleware. Just write a page.
 
-**Repository**: https://github.com/joezhouai/ainet | **Spec version**: v1.0 (Draft) | **License**: MIT (framework & transport) + CC BY 4.0 (spec)
+**Repository**: https://github.com/joezhouai/ainet | **Spec version**: v1.0 | **License**: MIT (framework & transport) + CC BY 4.0 (spec)
 
 ---
 
